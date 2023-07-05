@@ -1,1 +1,1 @@
-a new notepad file
+a first new notepad file was created.
