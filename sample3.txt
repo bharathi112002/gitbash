@@ -1,1 +1,1 @@
-a sample3 file
+a sample3 file was modified.
